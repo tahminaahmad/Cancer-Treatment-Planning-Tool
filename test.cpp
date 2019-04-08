@@ -34,6 +34,8 @@ void getStopWords(const char *ignoreWordFileName, string ignoreWords[])
   }
 }
 
+//changes made
+
 bool isStopWord(string word, string ignoreWords[])
 {
   for(int x = 0; x < 50; x++)
