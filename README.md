@@ -1,4 +1,4 @@
-# DataStructuresFinalProject
+# CancerTreatmentPlanningTool
 
 We made a program that makes finding cancer treatment facilities easy.
 
