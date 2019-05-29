@@ -1,4 +1,4 @@
-# CancerTreatmentPlanningTool
+# Cancer Treatment Planning Tool
 
 We made a program that makes finding cancer treatment facilities easy.
 
